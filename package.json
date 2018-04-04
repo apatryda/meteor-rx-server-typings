@@ -1,0 +1,23 @@
+{
+  "name": "meteor-rx-server-typings",
+  "version": "0.0.1",
+  "description": "Typings for Atmosphere package apatryda:meteor-rx-server",
+  "main": "main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apatryda/meteor-rx-server-typings.git"
+  },
+  "author": "Artur Nerkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apatryda/meteor-rx-server-typings/issues"
+  },
+  "homepage": "https://github.com/apatryda/meteor-rx-server-typings#readme",
+  "devDependencies": {
+    "@types/meteor": "^1.4.13",
+    "rxjs": "^5.5.8"
+  }
+}
