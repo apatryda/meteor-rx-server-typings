@@ -1,0 +1,7 @@
+{
+  "name": "apatryda:meteor-rx-server",
+  "version": "0.0.1",
+  "main": "main.d.ts",
+  "homepage": "https://atmospherejs.com/apatryda/meteor-rx-server",
+  "global": false
+}
